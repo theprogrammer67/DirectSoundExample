@@ -1,0 +1,15 @@
+*.local
+*.dcu
+*.res
+*.dres
+*.identcache
+*.dll
+*.stat
+*.msi
+*.exe
+*.dsk
+*.dproj.local
+*.identcache
+__history/
+Profiling/
+Win32/
